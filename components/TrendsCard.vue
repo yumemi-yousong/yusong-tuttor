@@ -1,0 +1,9 @@
+<template>
+<div>
+     <v-card>
+        <v-card-text>
+            TrendsCard
+        </v-card-text>
+    </v-card>
+</div>
+</template>
